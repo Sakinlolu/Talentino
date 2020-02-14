@@ -1,0 +1,12 @@
+body{
+    background-image: url(../images/light-bulb-3104355_1920.jpg);
+    margin-right: 50px;
+}
+.box{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: bisque;
+    width: 40%;
+    margin: 5%;
+}

@@ -1,0 +1,15 @@
+img{
+    width: 50px;
+    height: 150px;
+}.ab{
+    width:400px;
+    border-style: groove;
+    border-width: 3px;
+}
+.row{
+    padding-left: 50px;
+    padding-right: 70px;
+}
+.row{
+    background-color:rgb(229, 239, 243);
+}
